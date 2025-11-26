@@ -5,12 +5,13 @@
   "keywords": ["mpu6050", "imu", "airdraw", "svg", "gesture"],
   "authors": [
     {
-      "name": "ChatGPT generated"
+      "name": "Herobrine Pixel"
+      "email": "ashasah77@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://example.invalid/GestureAirDraw"
+    "url": "https://github.com/Herobrine-pixel/GestureAirDraw"
   },
   "frameworks": "arduino",
   "platforms": [
