@@ -1,0 +1,7 @@
+/.pio
+/.vscode
+*.pyc
+_pycache_/
+build/
+*.zip
+.DS_Store
