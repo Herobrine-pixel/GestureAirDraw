@@ -1,6 +1,6 @@
 {
   "name": "GestureAirDraw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Draw shapes in the air using an IMU (MPU6050/9250) and output SVG paths.",
   "keywords": ["mpu6050", "imu", "airdraw", "svg", "gesture"],
   "authors": [
